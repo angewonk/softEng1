@@ -1,2 +1,2 @@
 # softEng1
-Software Engineering 1 Laboratory Student Name: MALLARI, Angelo Gerard T.
+Software Engineering 1 Lab Student Name: MALLARI, Angelo Gerard T.
